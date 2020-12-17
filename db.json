@@ -1,0 +1,9 @@
+{ 
+    "name": "meme1",
+    "number": 1,
+    "image": "https://www.instagram.com/p/CImcEKSg51g/",
+    "category": [
+        "epimeme"
+        "meme"
+    ]
+}
